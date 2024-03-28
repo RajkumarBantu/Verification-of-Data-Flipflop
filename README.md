@@ -1,1 +1,2 @@
-# Verification-of-Data-Flipflop
+# 
+Verification Of Sequential Circuit D FlipFlop
